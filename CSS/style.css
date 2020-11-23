@@ -298,5 +298,21 @@ footer {
   .sobreNosotrosDiv{
     margin: 15%;
   }
+
+  .tituloSN{
+    font-weight: bold;
+    
+  }
+
+  .imagenSN2{
+    width: 40%;
+    height: 40%;
+    margin: 2%;
+    float: left;
+  }
+
+  .sobreNosotrosDiv2{
+    margin: 15%;
+  }
   /*fin de estilo para la pagina sobre nosotros*/
 
