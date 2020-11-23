@@ -286,3 +286,17 @@ footer {
   }
 
   /*fin estilo para el footer*/
+
+  /*estilo para la página sobre nosotros*/
+  .imagenSN{
+    width: 40%;
+    height: 40%;
+    margin: 2%;
+    float: left;
+  }
+
+  .sobreNosotrosDiv{
+    margin: 15%;
+  }
+  /*fin de estilo para la pagina sobre nosotros*/
+
