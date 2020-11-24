@@ -1,3 +1,4 @@
+
 /*estilo para el content*/
 
 div p{
@@ -61,10 +62,9 @@ footer {
     bottom:0px;
     height:180px;
     width:100%;
-    
   
   }
-  
+
   footer a {
     color: #fff;
     font-size: 14px;
@@ -307,13 +307,24 @@ footer {
 
   .sobreNosotrosDiv{
     margin: 5%;
+    background-color: white;
+  }
+
+
+  .pSobreNosotros{
+    color: black;
+
   }
 
   .tituloSN{
     font-weight: bold;
-    
-  }
+    color: black;
 
+  }
+  .jumbotron{
+    margin: 1%;
+  }
+  
   .imagenSN2{
     width: 20%;
     height: 20%;
@@ -323,10 +334,19 @@ footer {
 
   .sobreNosotrosDiv2{
     margin: 5%;
+    padding-bottom: 15%;
+    color: black;
+
+  }
+  .sobreNosotrosDiv2 > img{
+
+    border-radius: 100%;
   }
 
   .pSobreNosotros{
         font-size: 130%;
+        color: black;
+
     }
   /*fin de estilo para la pagina sobre nosotros*/
 
