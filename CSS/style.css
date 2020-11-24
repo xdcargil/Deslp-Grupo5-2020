@@ -329,3 +329,12 @@ footer {
         font-size: 130%;
     }
   /*fin de estilo para la pagina sobre nosotros*/
+
+ h3 {  
+      font-size: 30px;  
+      background: -webkit-linear-gradient(left top, rgb(136, 255, 0), rgb(47, 105, 0));
+      background: linear-gradient(to bottom right, rgb(143, 255, 16), rgb(70, 156, 0));
+      -webkit-background-clip: text;  
+      -webkit-text-fill-color: transparent;  
+      font: oblique bold 120% cursive;
+    }
