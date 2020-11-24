@@ -1,3 +1,4 @@
+
 /*estilo para el content*/
 
 div p{
@@ -61,10 +62,9 @@ footer {
     bottom:0px;
     height:180px;
     width:100%;
-    
   
   }
-  
+
   footer a {
     color: #fff;
     font-size: 14px;
@@ -306,22 +306,55 @@ footer {
   }
 
   .sobreNosotrosDiv{
-    margin: 15%;
+    margin: 5%;
+    background-color: white;
+  }
+
+
+  .pSobreNosotros{
+    color: black;
+
   }
 
   .tituloSN{
     font-weight: bold;
-    
-  }
+    color: black;
 
+  }
+  .jumbotron{
+    margin: 1%;
+  }
+  
   .imagenSN2{
-    width: 40%;
-    height: 40%;
+    width: 20%;
+    height: 20%;
     margin: 2%;
     float: left;
   }
 
   .sobreNosotrosDiv2{
-    margin: 15%;
+    margin: 5%;
+    padding-bottom: 15%;
+    color: black;
+
   }
+  .sobreNosotrosDiv2 > img{
+
+    border-radius: 100%;
+  }
+
+  .pSobreNosotros{
+        font-size: 130%;
+        color: black;
+
+    }
   /*fin de estilo para la pagina sobre nosotros*/
+
+ h3 {  
+      font-size: 30px;  
+      background: -webkit-linear-gradient(left top, rgb(136, 255, 0), rgb(47, 105, 0));
+      background: linear-gradient(to bottom right, rgb(143, 255, 16), rgb(70, 156, 0));
+      -webkit-background-clip: text;  
+      -webkit-text-fill-color: transparent;  
+      font: oblique bold 120% cursive;
+    }
